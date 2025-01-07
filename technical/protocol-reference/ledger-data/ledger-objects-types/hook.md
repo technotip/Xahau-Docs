@@ -4,7 +4,7 @@
 
 _(Added by the \[Hooks amendment]\[].)_
 
-A `Hook` object describes a smart contract, which can be triggered by a transaction to perform predefined operations. The operations are defined by the `Hook` creator and can interact with the ledger and transactions.
+A `Hook` ledger object describes which smart contracts are installed on a specific account.
 
 ### Example JSON
 
